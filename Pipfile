@@ -1,0 +1,16 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+keras = "*"
+scikit-learn = "*"
+tensorflow = "*"
+ipython = "*"
+matplotlib = "*"
+
+[requires]
+python_version = "3.8"
